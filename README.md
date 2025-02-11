@@ -10,3 +10,4 @@
 
 ## Detailed mathematical analysis can be found on NN_Maths.pdf
 
+## Implementation using computational graphs is in progress
